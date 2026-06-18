@@ -1,5 +1,7 @@
 # Project Overview
 
+[📥 Download the formatted and customized Word Document version of my report](./README.docx)
+
 This repository provides tools and resources for customizing and building a Linux kernel with a focus on packet filtering using the Netfilter subsystem. It also includes scripts and configurations for setting up a testing environment within virtual machines.
 
 ---
