@@ -1,4 +1,4 @@
-obj-m := snf_lkm.o
+obj-m := ipv6_counter.o
 
 KMOD_NAME := $(basename $(obj-m))
 KMOD := $(KMOD_NAME).ko
